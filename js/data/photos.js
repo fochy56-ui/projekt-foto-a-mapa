@@ -5,7 +5,14 @@
    editing content/photos/<id>.md; this file is overwritten on the next build.
    ============================================================================ */
 const photoInfo = [
-
+  {
+    "file": "108.jpg",
+    "lat": 49.593146,
+    "lon": 17.21147,
+    "caption": "Vjezd na letiště",
+    "source_ids": [],
+    "bearing": 300
+  }
 ];
 
 const photoInfoUnplaced = [];
