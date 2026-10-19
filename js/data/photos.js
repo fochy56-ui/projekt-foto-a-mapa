@@ -12,6 +12,14 @@ const photoInfo = [
     "caption": "Vjezd na letiště",
     "source_ids": [],
     "bearing": 300
+  },
+  {
+    "file": "108.jpg",
+    "lat": 49.593139,
+    "lon": 17.21148,
+    "caption": "Vjezd na letiště",
+    "source_ids": [],
+    "bearing": 300
   }
 ];
 
